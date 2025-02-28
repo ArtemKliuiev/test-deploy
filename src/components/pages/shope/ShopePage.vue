@@ -3,7 +3,9 @@
 </script>
 
 <template>
-  <main>
-    TheWelcome
-  </main>
+Shope Page
 </template>
+
+<style scoped>
+
+</style>
